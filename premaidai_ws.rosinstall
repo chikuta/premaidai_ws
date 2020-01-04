@@ -1,4 +1,4 @@
-- git: {local-name: "src/premaidai_description", uri: "https://github.com/chikuta/premaidai_description"}
-- git: {local-name: "src/premaidai_controller", uri: "https://github.com/chikuta/premaidai_controller"}
-- git: {local-name: "src/premaidai_moveit", uri: "https://github.com/chikuta/premaidai_moveit"}
-- git: {local-name: "src/premaidai_simulator", uri: "https://github.com/chikuta/premaidai_simulator"}
+- git: {local-name: "src/premaidai_description", uri: "https://github.com/chikuta/premaidai_description", version: "ac13025e4fe41108769c0d7f2b6186dd743ff282"}
+- git: {local-name: "src/premaidai_controller", uri: "https://github.com/chikuta/premaidai_controller", version: "12fba76efaf3ddc6688bc663f6230f66c642deb8"}
+- git: {local-name: "src/premaidai_moveit", uri: "https://github.com/chikuta/premaidai_moveit", version: "d5e3c7abedce3a48705514c32bb4e65242292707"}
+- git: {local-name: "src/premaidai_simulator", uri: "https://github.com/chikuta/premaidai_simulator", version: "3f7f94f7225f770f1e396ef94ada20a1f37b42e2"}
